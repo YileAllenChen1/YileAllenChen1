@@ -1,4 +1,4 @@
-### Howdy, I'm Yile (Allen) Chen 👋
+### Howdy, I'm Yile (Allen) Chen (陈一乐) 👋
 
 I am a Junior Computer Engineering Honors Student at [Texas A&M University (TAMU)](https://www.tamu.edu/), with a passion to explore different technologies in computer science/engineering. In the past I have worked on various projects including web development, robotics and machine learning. As a member of [TAMU Robomasters](https://www.tamurobomasters.com/), I have worked on the embedded systems team and computer vision team. Currently I am working under my advisor [Dr. Hu Xia](https://people.engr.tamu.edu/xiahu/index.html) on anomaly detection. 
 
@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently looking for an internship for 2021
 - ⚡ Fun fact: My name is pronouced with two syllables: Yi Le
 - 😄 I enjoy running, basketball and photography.
+- 💬 Stay Hungry, Stay Foolish. 博观而约取，厚积而薄发。
