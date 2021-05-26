@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [TODS: A Time series Outlier Detection System](https://github.com/datamllab/tods)
-- 🌱 I’m excited to announce that I will be joining Arm in the summer and NVIDIA in the fall as a software intern!
-- ⚡ Fun fact: My name is pronouced with two syllables: Yi Le
+- 🔭 I’m excited to announce that I will be joining [Arm](https://www.arm.com/) in the summer and [NVIDIA](https://www.nvidia.com/en-us/) in the fall as a software intern!
+- 🌱 I’m currently working on basketball player classification using machine learning and OpenCV.
+- ⚡ Fun fact: My name is pronouced with two syllables: Yi Le.
 - 😄 I enjoy running, basketball and photography.
 - 💬 Stay Hungry, Stay Foolish. 博观而约取，厚积而薄发。
