@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m excited to announce that I will be joining [Arm](https://www.arm.com/) in the summer and [NVIDIA](https://www.nvidia.com/en-us/) in the fall as a software intern!
+- 🔭 I’m excited to announce that I will be joining [NVIDIA](https://www.nvidia.com/en-us/) after graduation as a full time software engineer!
 - ⚡ Fun fact: My name is pronouced with two syllables: Yi Le.
 - 😄 I enjoy running, basketball and photography.
 - 💬 Stay Hungry, Stay Foolish. 博观而约取，厚积而薄发。
